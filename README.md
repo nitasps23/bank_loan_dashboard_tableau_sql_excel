@@ -9,6 +9,6 @@
 > 2.  Create a database via SSMS
 > 3.  Import the data
 > 4.  Write SQL queries based on the problem statement for comparing outputs across Tableau and Excel
-> 5.  Analyze and visualize the data using Tableau
+> 5.  Connect Tableau to the database, then analyze and visualize the data using Tableau
 
 ![Screenshot 2024-08-29 021347](https://github.com/user-attachments/assets/1f75c37d-2294-4e24-8ba6-1979eb4b9f3d)
