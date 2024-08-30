@@ -6,7 +6,7 @@
 
 #### Steps in creating this dynamic dashboard:
 > 1.  Clean up the date format in Excel
-2.  Create a database via SSMS
+> 2.  Create a database via SSMS
 3.  Import the data
 4.  Write SQL queries based on the problem statement for comparing outputs across Tableau and Excel
 5.  Analyze and visualize the data using Tableau
