@@ -5,7 +5,7 @@
 > Comprehensive dashboards for monitoring lending activities, evaluating loan quality, and visualizing key metrics to support strategic decisions and optimize lending through data insights and analysis. 
 
 #### Steps in creating this dynamic dashboard:
-1.  Clean up the date format in Excel
+> 1.  Clean up the date format in Excel
 2.  Create a database via SSMS
 3.  Import the data
 4.  Write SQL queries based on the problem statement for comparing outputs across Tableau and Excel
