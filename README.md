@@ -1,4 +1,4 @@
-### Here is a link to the Bank Loan Report dashboard:
+### Here is the link to Bank Loan Report dashboard:
 > https://public.tableau.com/views/bank_loan_dashboard_17249086291350/SUMMARY?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ### Bank Loan Dashboard (Tableau+SQL+Excel):
