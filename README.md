@@ -11,4 +11,5 @@
 > 4.  Write SQL queries based on the problem statement for comparing outputs across Tableau and Excel
 > 5.  Connect Tableau to the database, then analyze and visualize the data
 
-![Screenshot 2024-08-29 021347](https://github.com/user-attachments/assets/1f75c37d-2294-4e24-8ba6-1979eb4b9f3d)
+
+![Screenshot 2024-08-29 021347](https://github.com/user-attachments/assets/f1315769-e5ff-4f7f-81d7-2e1b3c0ca5f2)
